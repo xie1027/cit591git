@@ -13,6 +13,10 @@ import java.util.regex.Pattern;
  * @author weichen
  */
 public class SpellChecker {
-	main jfkldsfkj
+
+	public static void main() {
+		print
+	}
+
 
 }
