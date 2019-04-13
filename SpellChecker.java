@@ -13,6 +13,8 @@ import java.util.regex.Pattern;
  * @author weichen
  */
 public class SpellChecker {
-	main
+	public static void main() {
+		
+	}
 
 }
